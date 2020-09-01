@@ -7,3 +7,5 @@ Adding some sample text.
 This is a modified line.
 
 Sample edit without remote connect.
+
+Sample edit with remote connect.
